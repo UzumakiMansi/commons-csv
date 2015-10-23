@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
-Test set: org.apache.commons.csv.LexerTest
+Test set: randoop.RandoopTest
 -------------------------------------------------------------------------------
-Tests run: 26, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.013 sec - in org.apache.commons.csv.LexerTest
+Tests run: 3508, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 1.377 sec - in randoop.RandoopTest

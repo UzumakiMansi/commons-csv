@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="org.apache.commons.csv.CSVFileParserTest" time="0.003" tests="12" errors="0" skipped="0" failures="0">
+<testsuite name="org.apache.commons.csv.CSVFileParserTest" time="0.021" tests="12" errors="0" skipped="0" failures="0">
   <properties>
     <property name="java.runtime.name" value="OpenJDK Runtime Environment"/>
     <property name="sun.boot.library.path" value="/usr/lib/jvm/java-7-openjdk-amd64/jre/lib/amd64"/>
@@ -58,16 +58,16 @@
     <property name="sun.desktop" value="gnome"/>
     <property name="sun.cpu.isalist" value=""/>
   </properties>
-  <testcase name="testCSVFile[0]" classname="org.apache.commons.csv.CSVFileParserTest" time="0"/>
-  <testcase name="testCSVUrl[0]" classname="org.apache.commons.csv.CSVFileParserTest" time="0"/>
-  <testcase name="testCSVFile[1]" classname="org.apache.commons.csv.CSVFileParserTest" time="0"/>
-  <testcase name="testCSVUrl[1]" classname="org.apache.commons.csv.CSVFileParserTest" time="0"/>
-  <testcase name="testCSVFile[2]" classname="org.apache.commons.csv.CSVFileParserTest" time="0"/>
+  <testcase name="testCSVFile[0]" classname="org.apache.commons.csv.CSVFileParserTest" time="0.003"/>
+  <testcase name="testCSVUrl[0]" classname="org.apache.commons.csv.CSVFileParserTest" time="0.002"/>
+  <testcase name="testCSVFile[1]" classname="org.apache.commons.csv.CSVFileParserTest" time="0.003"/>
+  <testcase name="testCSVUrl[1]" classname="org.apache.commons.csv.CSVFileParserTest" time="0.004"/>
+  <testcase name="testCSVFile[2]" classname="org.apache.commons.csv.CSVFileParserTest" time="0.003"/>
   <testcase name="testCSVUrl[2]" classname="org.apache.commons.csv.CSVFileParserTest" time="0"/>
-  <testcase name="testCSVFile[3]" classname="org.apache.commons.csv.CSVFileParserTest" time="0.001"/>
-  <testcase name="testCSVUrl[3]" classname="org.apache.commons.csv.CSVFileParserTest" time="0"/>
-  <testcase name="testCSVFile[4]" classname="org.apache.commons.csv.CSVFileParserTest" time="0.001"/>
-  <testcase name="testCSVUrl[4]" classname="org.apache.commons.csv.CSVFileParserTest" time="0"/>
+  <testcase name="testCSVFile[3]" classname="org.apache.commons.csv.CSVFileParserTest" time="0"/>
+  <testcase name="testCSVUrl[3]" classname="org.apache.commons.csv.CSVFileParserTest" time="0.002"/>
+  <testcase name="testCSVFile[4]" classname="org.apache.commons.csv.CSVFileParserTest" time="0.002"/>
+  <testcase name="testCSVUrl[4]" classname="org.apache.commons.csv.CSVFileParserTest" time="0.001"/>
   <testcase name="testCSVFile[5]" classname="org.apache.commons.csv.CSVFileParserTest" time="0.001"/>
   <testcase name="testCSVUrl[5]" classname="org.apache.commons.csv.CSVFileParserTest" time="0"/>
 </testsuite>

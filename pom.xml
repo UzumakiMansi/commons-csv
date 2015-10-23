@@ -400,7 +400,6 @@ CSV files of various types.
       <id>benchmark</id>
       
       <dependencies>
-        <dependencies>
         <dependency>
             <groupId>net.sourceforge.cobertura</groupId>
             <artifactId>cobertura</artifactId>
